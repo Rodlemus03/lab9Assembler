@@ -1,0 +1,7 @@
+﻿  Assembling laboratorio9.asm...
+laboratorio9.asm(9): error A2008: syntax error : .
+laboratorio9.asm(10): error A2008: syntax error : .
+laboratorio9.asm(11): error A2008: syntax error : .
+laboratorio9.asm(25): error A2008: syntax error : main
+laboratorio9.asm(25): error A2088: END directive required at end of file
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: El comando "ml64.exe /c /nologo /Zi /Fo"x64\Debug\laboratorio9.obj" /W3 /errorReport:prompt  /Talaboratorio9.asm" salió con el código 1.
